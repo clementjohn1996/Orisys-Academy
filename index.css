@@ -20,20 +20,20 @@ body {
 .flex-container
 	{
 		height: 101px;
-		width: auto;
+/* 		width: auto; */
 		float: left;
 		border: solid transparent;
 	}
 
-	.head
+/* 	.head
 	{
 		border: 0.1px solid transparent;
-		height: 101px;
-		width: 1280px;
+                height: 101px;
+		width: 1280px; 
 		float: left;
 		border-radius: 100px;
 		display: inline;
-	}
+	} */
 	
 	.textmain
 	{
