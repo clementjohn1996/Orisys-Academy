@@ -5,7 +5,7 @@
 	 font-family: sans-serif;
    }
 
-
+/* BODY STARTING */
 
 body {
 	background-image: url("images/1.jpg");
@@ -16,10 +16,9 @@ body {
 
      }
 
-
+/* MAIN DIV STARTING */
 .flex-container
 	{
-		border: 1px;
 		height: 101px;
 		width: auto;
 		float: left;
@@ -140,13 +139,18 @@ body {
 		margin-left: 20%;
 	}
 
+/* *********************************************************************************************************************************** */
+
 	/*Mobile Phone
 */
+
+
+
 @media screen and (max-width: 480px)
 {
 	body 
 	{
-	background-image: url("images/1.JPG");
+	background-image: url("images/1.jpg");
 	background-repeat: no-repeat;
 	height: fit-content;
 	width: 100%;
