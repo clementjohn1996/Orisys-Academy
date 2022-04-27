@@ -163,6 +163,7 @@ body {
 {
 	flex-direction: column;
 	justify-content: space-around;
+	max-width: 480px;
 
 
 }
